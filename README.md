@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Piyawat 👋
 
-<!--
-**Mosspiy/Mosspiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on building scalable web applications and backend systems.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Vue.js
+- Node.js / NestJS
+- PostgreSQL / MongoDB
+- Docker / AWS
+- CI/CD (GitHub Actions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Featured Projects
+
+### 🐾 Pet Product Web Application
+Full-stack e-commerce platform with authentication, admin dashboard, Docker deployment, and CI/CD pipeline.
+
+### 🍔 Food & Beverage Ordering System
+Web ordering platform with REST APIs and PostgreSQL database.
+
+---
+
+## 📫 Contact
+- Email: piyawat.c03@gmail.com
+- GitHub: github.com/Mosspiy
